@@ -1,0 +1,16 @@
+.friend-card {
+  width: 23%;
+  background-color: #ffebcd;
+  border: 1px solid black;
+  border-radius: 1rem;
+  margin-top: 5%;
+}
+
+.card-container {
+  width: 75%;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  font-size: 50%;
+}
